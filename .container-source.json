@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "distribution": "Centos",
+  "upstream": "https://gitlab.com/redhat/centos-stream/release-engineering/kickstarts.git",
+  "ref": "main",
+  "revision": "73821af515fc7761e80c5fed2f50af9e9de9a795"
+}
